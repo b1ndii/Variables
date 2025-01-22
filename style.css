@@ -1,0 +1,38 @@
+/* div {
+    height: 300px;
+    width: 500px;
+    background-image: radial-gradient( red,yellow,);
+} */
+
+/* .hero {
+    width: 500px;
+    height: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(2,3,61,0.8) 0%,
+        rgba(0,168,255,0.8) 100%
+    ),
+    url("apple.jpg");
+    background-size: cover;
+    
+} */
+
+/* Ne anen e majt osht emri i variables
+Ne anen e djatht osht vlera e variables */
+
+/* :root {
+    --white: #fff;
+    --zi: black;
+    --brand-primary:orange;
+    --brand-secondary:green;
+}
+
+body {
+    background-color: var(--brand-primary);
+} */
+
+:root {
+    --purple:purple;
+}
+
+a{color: var(--purple);}
